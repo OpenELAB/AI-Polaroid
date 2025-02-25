@@ -42,9 +42,10 @@ The **AI Polaroid** project leverages advanced image processing and AI to enhanc
 
 ### 📑 How to Use
 
-1. **Obtain VanceAI API Key** 🔑
-    - Visit the [VanceAI website](https://vanceai.com/) 🌐.
-    - [Documentation of the API](https://docs.vanceai.com/#introduction)
+ **Obtain VanceAI API Key** 🔑
+- Visit the [VanceAI website](https://vanceai.com/) 🌐.
+- [Documentation of the API](https://docs.vanceai.com/#introduction)
+- Replace the key in the code
 
 ### 🎁 Contribute
 
