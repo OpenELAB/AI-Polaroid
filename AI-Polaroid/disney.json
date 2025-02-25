@@ -1,0 +1,25 @@
+
+{
+    "name":"img2anime",
+    "config":{
+      "module":"img2anime",
+      "module_params":{
+          "model_name":"Disney",
+          "prompt":"",
+          "overwrite": false,
+          "denoising_strength": 0.75
+      }
+    },
+    "cn_configs":  [
+        {
+            "image_uid": "<uid_from_upload>",
+            "cn_name": "more_real_lineart"
+        },
+        {
+            "image_uid": "<uid_from_upload>",
+            "cn_name": "more_real_lineart"
+        }
+    ]
+}
+  
+  

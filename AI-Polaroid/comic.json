@@ -1,0 +1,25 @@
+
+{
+    "name":"img2anime",
+    "config":{
+      "module":"img2anime",
+      "module_params":{
+          "model_name":"Comic",
+          "prompt":"",
+          "overwrite": false,
+          "denoising_strength": 0.75
+      }
+    },
+    "cn_configs":  [
+      {
+        "image_uid": "<uid_from_upload>",
+        "cn_name": "cartoon_normal"
+      },
+      {
+        "image_uid": "<uid_from_upload>",
+        "cn_name": "cartoon_canny"
+      }
+    ]
+}
+  
+  
